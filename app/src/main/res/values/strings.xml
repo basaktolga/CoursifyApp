@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coursify</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="add_course">+</string>
+    <string name="deploy">Add Course</string>
+    <string name="course_description">Please enter description of the course.</string>
+    <string name="course_name">Please enter the course name.</string>
+    <string name="course_image">Insert image</string>
+
+</resources>
